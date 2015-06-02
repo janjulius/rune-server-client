@@ -1,0 +1,1 @@
+This client was started from a default, moparisthebest 317 deob (unpackaged). References to clienthax's and peterbjornx's naming deserve credit, as well as snippets released by super
